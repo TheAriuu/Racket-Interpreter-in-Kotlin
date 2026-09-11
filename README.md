@@ -1,6 +1,5 @@
 IC-4700 Lenguajes de programación  
 Ariana Jiménez
-IC-AL
 ---
 # Proyecto Racket en Kotlin
 
