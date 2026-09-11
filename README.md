@@ -1,5 +1,5 @@
 IC-4700 Lenguajes de programación  
-Prof. Diego Munguia Molina  
+Ariana Jiménez
 IC-AL
 ---
 # Proyecto Racket en Kotlin
