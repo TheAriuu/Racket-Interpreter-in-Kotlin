@@ -218,21 +218,7 @@ Correr el main
 
 ## Metodología
 
-* El proyecto se trabajará en equipos de entre una y tres personas.
-* El proyecto se desarrollará en el transcurso de dos semanas.
-* El proyecto se desarrollará en Kotlin siguiendo el paradigma orientado a objetos.
-* El proyecto se entregará en el repositorio de git facilitado por la persona docente.
-* El proyecto será evaluado a través de pruebas automatizadas aplicadas al código entregado y a través de una prueba 
-escrita individual aplicada a todas las personas miembros del equipo.
-
-## Rúbricas de evaluación
-
-**Código producido** (50%)  
-- Hay producción de código para implementar los requerimientos funcionales (15%)
-- El código producido se apega al paradigma de orientación a objetos (15%)
-- El código producido pasa los casos de prueba (20%)
-
-**Defensa del proyecto** (50%)
-- Prueba escrita de defensa del proyecto (50%)
+* Proyecto desarrollado en el transcurso de dos semanas.
+* Proyecto desarrollado en Kotlin siguiendo el paradigma orientado a objetos.
 
 
